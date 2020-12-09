@@ -1,1 +1,8 @@
 Assignment 2
+DatDT
+HTML 
+CSS
+JAVASCRIPT
+Reactjs
+Nodejs
+MongoDB
